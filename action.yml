@@ -18,6 +18,9 @@ inputs:
   registry:
     description: 'Registry'
     required: false
+  env:
+    description: 'Environment'
+    required: false
   username:
     description: 'Username'
     required: false
